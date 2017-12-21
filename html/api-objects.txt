@@ -1,0 +1,2 @@
+casino	casino-module.html
+casino.__package__	casino-module.html#__package__
