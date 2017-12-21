@@ -24,7 +24,7 @@ casino.py is the main file to launch but you can also run the "prob.sh" to make 
 
 ## Authors
 
-* **António Mota** - *Developer* - [PurpleBooth](https://github.com/PurpleBooth)
+* **António Mota** - *Developer*
 * **Hugo Fragata** - *Developer* - [hugofragata](https://github.com/hugofragata)
 * **Gonçalo Grilo** - *Developer* - [gonccalo](https://github.com/gonccalo)
 
